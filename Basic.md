@@ -10,9 +10,9 @@
  ### Web에서 쌍방향으로 제어가능 (pad-computer-mobie 서로 동기화가 가능하다)
  ### 220V 전원제어 -> (Relay switch)전자석으로
 
-# ======2018.10.25THU)=====
+# ======2018.10.25(THU)=====
 
-## drone 오픈소스와 농업용 drone에 관한 자료와 영상을 강사님께 받아왔습니다.
+### drone 오픈소스와 농업용 drone에 관한 자료와 영상을 강사님께 받아왔습니다.
     1. RaspberryPI는 iptime공유기랑 잘 연결되지 않는다.(추천 제품 TPLink TL-WR940N Plus)
     2. RaspberryPI는 교육용, 테스트용이라 실제에서 쓰기에는 발열문제와 쉽게 고장나는 3. 문제점이 발생해서 쓰이지 않는다.
     4. RaspberryPI를 이용해 220V전원을 제어하려면 전자석으로 Relay switch를 쓰면된다.
